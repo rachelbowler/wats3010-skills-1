@@ -30,7 +30,8 @@ body {
 article {
     background-color: #0c374d;
     margin: 2rem 10%;
-    padding: 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
 }
 h1, h2, h3 {
     background-color: #0c374d;
