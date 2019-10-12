@@ -51,6 +51,7 @@ sup a:hover {
 }
 article p {
     margin: 3rem;
+    color: white;
 }
 
 article p::first-letter {
